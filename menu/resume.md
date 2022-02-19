@@ -13,7 +13,7 @@ Passionate, value-driven product manager with experience leading cross-functiona
 
 <br>
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 ## AMWAY • Multiple Positions Held • 2013-Present
 ### Product Manager – 2019-Present
 _Russia/Kazakhstan/Ukraine/Mongolia subregion_
@@ -34,14 +34,14 @@ _Russia/Kazakhstan subregion_
 - Digitalized documents signing process via integration with a local eSignature operator, resulting 30 000 documents signing with electronic signature monthly.
 - Decreased customer waiting time by 60% and new employee onboarding time with new Customer Service system and knowledge base.
 
-## ASOFT • 2012-2013
+# ASOFT • 2012-2013
 
 ### Business Analyst
 - Integrated a CRM system to a customer, leading a team of 2 developers. Set up the business processes (ordering, inventory, delivery, service) and integrations with IP telephony. Formalized business processes.
 
 <br>
 
-## COMMUNITY SERVICES
+# COMMUNITY SERVICES
 
 ### GEEKBRAINS
 _One of the leading online universities in Russia with focus on IT, marketing, and Design specialties_
@@ -49,7 +49,7 @@ _One of the leading online universities in Russia with focus on IT, marketing, a
 
 <br>
 
-## EDUCATION AND CREDENTIALS
+# EDUCATION AND CREDENTIALS
 
 ### Moscow Aviation Institute (National Research University) – Russia
 - Master of Science. Spacecraft Propulsions – Faculty of Rocket Engines
@@ -61,7 +61,7 @@ _One of the leading online universities in Russia with focus on IT, marketing, a
 
 <br>
 
-## SKILLS
+# SKILLS
 
 - Team Leadership
 - Product Lifecycle Management
