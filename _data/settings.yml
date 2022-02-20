@@ -7,9 +7,8 @@ disqus:
 google-ID: 'G-8Y5XHHVWWX'
 
 menu:
-- {name: 'Resume',  url: 'resume.html'}
+- {name: 'Resume',  url: 'assets/konstantin_smirnov_product_manager_2022.pdf'}
 - {name: 'About',   url: 'about.html'}
-- {name: 'Posts', url: 'writing.html'}
 - {name: 'Contacts', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
