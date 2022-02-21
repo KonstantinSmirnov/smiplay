@@ -12,4 +12,4 @@ With more than 7 years in IT, I enjoy building products that solve the customers
 ## Contact me via
 - [LinkedIn](https://www.linkedin.com/in/smiplay/)
 - [Facebook](https://www.facebook.com/smi.design1)
-- [Email](mailto:hello@smiplay.com)
+- [Email](mailto:rusksmi@gmail.com)
